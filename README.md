@@ -8,3 +8,9 @@
 2. `docker-compose up` もしくは `docker-compose up -d` コマンドを実行する
 3. ブラウザで `http://localhost:8080/` を開く
 4. `src` フォルダの中身は、動作検証した PHP プロジェクトにする
+
+``` console
+docker-compose up
+```
+
+http://localhost:8080/
