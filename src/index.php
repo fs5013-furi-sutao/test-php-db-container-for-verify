@@ -108,8 +108,7 @@ $messages = get_messages();
             
         </main>
         <footer>
-            <p>Author : シロー</p>
-            <a href="https://shiro-secret-base.com">ブログ(https://shiro-secret-base.com)</a>
+            <p>&copy; fs5013-furi-sutao</p>
         </footer>
     </body>
 </html>
